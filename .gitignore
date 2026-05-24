@@ -1,0 +1,12 @@
+*.tsv
+*.zip
+*.txt
+*.json
+player_journey_extracted/
+assets/pokemon_map.html
+pokemon_go_map.html
+pokemon_go_dashboard.png
+__pycache__/
+*.pyc
+.env
+.DS_Store
